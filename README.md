@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning **JavaScript, ReactJs, Blockchain Technology**
 <br>
-- 📫 How to reach me **[balveersinghdheru9822@gmail.com](url)**
+- 📫 How to reach me **balveersinghdheru9822@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
